@@ -1,9 +1,9 @@
 ### Hi there 👋 Welcome to Smruti Zone
 
-Here are some ideas to get you started:
+Here are something about me:
 
-- 🔭 I’m currently working on Software Industries
-- 🌱 I’m currently learning new skills
+- 🔭 I’m currently working as Senior Software Developer
+- 🌱 I’m always learning new skills
 - 👯 I’m looking to collaborate on any projects
 - 💬 Ask me about any fullstack questions
 - 📫 How to reach me: 
