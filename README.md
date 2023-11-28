@@ -47,7 +47,7 @@ I'm Smruti, a passionate self-taught full stack web developer and a freelance so
 - [x] Knowledge of both synchronous and non-synchronous flow
 
 
-<h2>Recent Activity</h2>
+<h2>Recent Activities</h2>
 
 ![Smruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=smruti-banty&show_icons=true&theme=transparent)
 
