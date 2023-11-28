@@ -49,7 +49,8 @@ I'm Smruti, a passionate self-taught full stack web developer and a freelance so
 
 <h2>Recent Activity</h2>
 
-![Smruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=smruti-banty&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smruti-banty)](https://github.com/smruti-banty/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smruti-banty)](https://github.com/smruti-banty/github-readme-stats)  ![Smruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=smruti-banty&show_icons=true&theme=transparent)
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3586](https://github.com/smruti-banty/smruti-banty/pull/3586#issuecomment-1827740813) in [smruti-banty/smruti-banty](https://github.com/smruti-banty/smruti-banty)
 2. 🗣 Commented on [#3342](https://github.com/smruti-banty/smruti-banty/issues/3342#issuecomment-1823195186) in [smruti-banty/smruti-banty](https://github.com/smruti-banty/smruti-banty)
