@@ -46,3 +46,12 @@ I'm Smruti, a passionate self-taught full stack web developer and a freelance so
 - [x] Hands on experience of Microservices
 - [x] Knowledge of both synchronous and non-synchronous flow
 
+<h2>Recent Activity</h2>
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#3586](https://github.com/smruti-banty/smruti-banty/pull/3586#issuecomment-1827740813) in [smruti-banty/smruti-banty](https://github.com/smruti-banty/smruti-banty)
+2. 🗣 Commented on [#3342](https://github.com/smruti-banty/smruti-banty/issues/3342#issuecomment-1823195186) in [smruti-banty/smruti-banty](https://github.com/smruti-banty/smruti-banty)
+3. 🗣 Commented on [#3449](https://github.com/smruti-banty/smruti-banty/pull/3449#issuecomment-1790276952) in [smruti-banty/smruti-banty](https://github.com/smruti-banty/smruti-banty)
+4. 🗣 Commented on [#3457](https://github.com/smruti-banty/smruti-banty/pull/3457#issuecomment-1780571540) in [smruti-banty/smruti-banty](https://github.com/smruti-banty/smruti-banty)
+5. 🗣 Commented on [#3457](https://github.com/smruti-banty/smruti-banty/pull/3457#issuecomment-1779402409) in [smruti-banty/smruti-banty](https://github.com/smruti-banty/smruti-banty)
+<!--END_SECTION:activity-->
