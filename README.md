@@ -61,10 +61,10 @@ I'm Smruti, a passionate self-taught full stack web developer and a freelance so
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#112](https://github.com/smruti-banty/library-management/pull/112) in [smruti-banty/library-management](https://github.com/smruti-banty/library-management)
-2. 💪 Opened PR [#112](https://github.com/smruti-banty/library-management/pull/112) in [smruti-banty/library-management](https://github.com/smruti-banty/library-management)
-3. 🔒 Closed issue [#76](https://github.com/smruti-banty/library-management/issues/76) in [smruti-banty/library-management](https://github.com/smruti-banty/library-management)
-4. 🎉 Merged PR [#94](https://github.com/smruti-banty/library-management/pull/94) in [smruti-banty/library-management](https://github.com/smruti-banty/library-management)
-5. 🎉 Merged PR [#111](https://github.com/smruti-banty/library-management/pull/111) in [smruti-banty/library-management](https://github.com/smruti-banty/library-management)
+1. 🎉 Merged PR [#4](https://github.com/smruti-banty/restru-manage/pull/4) in [smruti-banty/restru-manage](https://github.com/smruti-banty/restru-manage)
+2. 🎉 Merged PR [#112](https://github.com/smruti-banty/library-management/pull/112) in [smruti-banty/library-management](https://github.com/smruti-banty/library-management)
+3. 💪 Opened PR [#112](https://github.com/smruti-banty/library-management/pull/112) in [smruti-banty/library-management](https://github.com/smruti-banty/library-management)
+4. 🔒 Closed issue [#76](https://github.com/smruti-banty/library-management/issues/76) in [smruti-banty/library-management](https://github.com/smruti-banty/library-management)
+5. 🎉 Merged PR [#94](https://github.com/smruti-banty/library-management/pull/94) in [smruti-banty/library-management](https://github.com/smruti-banty/library-management)
 <!--END_SECTION:activity-->
 
