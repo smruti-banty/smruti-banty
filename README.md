@@ -61,10 +61,10 @@ I'm Smruti, a passionate self-taught full stack web developer and a freelance so
 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6](https://github.com/smruti-banty/restru-manage/issues/6) in [smruti-banty/restru-manage](https://github.com/smruti-banty/restru-manage)
-2. 🎉 Merged PR [#4](https://github.com/smruti-banty/restru-manage/pull/4) in [smruti-banty/restru-manage](https://github.com/smruti-banty/restru-manage)
-3. 🎉 Merged PR [#112](https://github.com/smruti-banty/library-management/pull/112) in [smruti-banty/library-management](https://github.com/smruti-banty/library-management)
-4. 💪 Opened PR [#112](https://github.com/smruti-banty/library-management/pull/112) in [smruti-banty/library-management](https://github.com/smruti-banty/library-management)
-5. 🔒 Closed issue [#76](https://github.com/smruti-banty/library-management/issues/76) in [smruti-banty/library-management](https://github.com/smruti-banty/library-management)
+1. 🗣 Commented on [#3](https://github.com/smruti-banty/restru-manage/issues/3#issuecomment-1907648098) in [smruti-banty/restru-manage](https://github.com/smruti-banty/restru-manage)
+2. 🔒 Closed issue [#3](https://github.com/smruti-banty/restru-manage/issues/3) in [smruti-banty/restru-manage](https://github.com/smruti-banty/restru-manage)
+3. 🔒 Closed issue [#1](https://github.com/smruti-banty/restru-manage/issues/1) in [smruti-banty/restru-manage](https://github.com/smruti-banty/restru-manage)
+4. 🎉 Merged PR [#2](https://github.com/smruti-banty/restru-manage/pull/2) in [smruti-banty/restru-manage](https://github.com/smruti-banty/restru-manage)
+5. 🗣 Commented on [#6](https://github.com/smruti-banty/restru-manage/issues/6#issuecomment-1907644493) in [smruti-banty/restru-manage](https://github.com/smruti-banty/restru-manage)
 <!--END_SECTION:activity-->
 
