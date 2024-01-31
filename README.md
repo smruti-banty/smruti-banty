@@ -61,10 +61,10 @@ I'm Smruti, a passionate self-taught full stack web developer and a freelance so
 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/smruti-banty/mo-blog/issues/1) in [smruti-banty/mo-blog](https://github.com/smruti-banty/mo-blog)
-2. 🗣 Commented on [#3](https://github.com/smruti-banty/restru-manage/issues/3#issuecomment-1907648098) in [smruti-banty/restru-manage](https://github.com/smruti-banty/restru-manage)
-3. 🔒 Closed issue [#3](https://github.com/smruti-banty/restru-manage/issues/3) in [smruti-banty/restru-manage](https://github.com/smruti-banty/restru-manage)
-4. 🔒 Closed issue [#1](https://github.com/smruti-banty/restru-manage/issues/1) in [smruti-banty/restru-manage](https://github.com/smruti-banty/restru-manage)
-5. 🎉 Merged PR [#2](https://github.com/smruti-banty/restru-manage/pull/2) in [smruti-banty/restru-manage](https://github.com/smruti-banty/restru-manage)
+1. 🔒 Closed issue [#1](https://github.com/smruti-banty/mo-blog/issues/1) in [smruti-banty/mo-blog](https://github.com/smruti-banty/mo-blog)
+2. 🎉 Merged PR [#2](https://github.com/smruti-banty/mo-blog/pull/2) in [smruti-banty/mo-blog](https://github.com/smruti-banty/mo-blog)
+3. 💪 Opened PR [#2](https://github.com/smruti-banty/mo-blog/pull/2) in [smruti-banty/mo-blog](https://github.com/smruti-banty/mo-blog)
+4. ❗ Opened issue [#1](https://github.com/smruti-banty/mo-blog/issues/1) in [smruti-banty/mo-blog](https://github.com/smruti-banty/mo-blog)
+5. 🗣 Commented on [#3](https://github.com/smruti-banty/restru-manage/issues/3#issuecomment-1907648098) in [smruti-banty/restru-manage](https://github.com/smruti-banty/restru-manage)
 <!--END_SECTION:activity-->
 
